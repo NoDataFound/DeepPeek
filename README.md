@@ -25,7 +25,7 @@
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ## 📌 Overview
-This repository contains research, analysis, and resources from **SecurityScorecard STRIKE** regarding **DeepSeek**, an AI-powered application with significant security and privacy concerns. This research highlights potential risks, data exfiltration methods, and security weaknesses, as well as technical methodologies for static and dynamic analysis.
+This repository contains research, analysis, and resources from the **SecurityScorecard STRIKE** team research regarding **DeepSeek** (https://securityscorecard.com/blog/a-deep-peek-at-deepseek), an AI-powered application with significant security and privacy concerns. This research highlights potential risks, data exfiltration methods, and security weaknesses, as well as technical methodologies for static and dynamic analysis.
 
 ---
 
